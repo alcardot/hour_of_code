@@ -78,9 +78,9 @@ pas d'appeler la classe footer dans la balise <table> de votre tableau html soit
 ![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/page_connexion.PNG)
 
  ```
-HTML:  Utiliser les bonnes balises pour faire un formulaire avec les bons types de saisies pour faire une page de login 
+HTML:  Utiliser les bonnes balises pour faire un formulaire avec les bons types de saisies ("text","password")
 
-CSS : Essayer de mettre un effet d'ombre sur le cadre du formulaire en utilisant une propriété CSS présente dans la documentation.  (utiliser la class .form) 
+CSS : Essayer de mettre un effet d'ombre sur le cadre du formulaire en utilisant une propriété CSS présente dans la documentation.  (utiliser la class .form dans le fichier style.css) 
  ```
 ### 6) Atelier Tableau!
 
