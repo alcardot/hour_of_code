@@ -1,0 +1,156 @@
+/* body */
+body
+{
+	margin: 10px 0 ;
+	padding: 0 ;
+	text-align: center ;
+	font: 0.8em "Roboto", sans-serif ;
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-size: cover;                    
+    background-position: bottom; 
+}
+/* Fin body */
+
+/* Bannière */
+h1.banniere
+{
+	
+margin: 0;
+}
+/* Fin Bannière */
+
+/* Menu */
+ul.menu
+{
+	background: #5B9BD5;
+	list-style-type: none ;
+}
+		
+ul.menu li
+{
+	float: left ;
+	text-align: center;
+}
+
+ul.menu li a
+{
+	width: 130px ;
+	line-height: 25px ;
+	font-size: 1.2em ;
+	font-weight: bold ;
+	letter-spacing: 2px ;
+	color: #FFFFFF ;
+	display: block ;
+	text-decoration: none ;
+	border-right: 2px solid #FFFFFF;
+}
+
+ul.menu li a:hover
+{
+
+}
+/* Fin Menu */
+
+/* Paragraphe */
+.conteneur
+{
+	width: 770px ;
+	text-align: left ;
+	border: 2px solid #5B9BD5 ;
+	background: #fff ;
+	margin:0 auto;
+}
+
+.contenu
+{
+
+}
+
+.contenu p
+{
+	text-indent: 2em ;
+	line-height: 1.7em ;
+}
+
+.contenu h2
+{
+	padding-left: 25px ;
+	line-height: 25px ;
+	font-size: 1.4em ;
+	border-bottom: 1px solid #5B9BD5 ;
+}
+
+.contenu h3
+{
+	margin-left: 15px ;
+	padding-left: 5px ;
+	border-bottom: 1px solid #5B9BD5 ;
+	border-left: 3px solid #5B9BD5;
+}
+/* Fin Paragraphe */
+
+/* Footer */
+.footer{
+
+}
+
+.title_footer
+{
+    color: white;
+	font-size: 20px;
+}
+/* Fin Footer */
+
+/* Tableau */
+table{
+
+	text-align:center;
+}
+
+.caption{	
+	font: 1em "Roboto", sans-serif ;
+	font-weight: bold;
+	margin-bottom:10px;
+}
+/* Fin Tableau */
+
+/* Exercice Login */
+
+.login-page {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  background: #FFFFFF;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 14px;
+}
+.form button {
+  font-family: "Roboto", sans-serif;
+  background: #5B9BD5;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+}
+
+.form button:hover,.form button:active,.form button:focus {
+  background: #2C6FAB;
+}
+
+/* Fin Exercice Login */
