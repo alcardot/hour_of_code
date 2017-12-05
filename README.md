@@ -75,7 +75,7 @@ pas d'appeler la classe footer dans la balise <table> de votre tableau html soit
  ```
 ### 5) Réalisation d'une page de connexion 
 
-![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/background_1.png)
+![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/page_connexion.PNG)
 
  ```
 HTML:  Utiliser les bonnes balises pour faire un formulaire avec les bons types de saisies pour faire une page de login 
@@ -88,12 +88,12 @@ CSS : Essayer de mettre un effet d'ombre sur le cadre du formulaire en utilisant
 
 Avec une hauteur de 200 et une largeur de 300 comme ci-dessous. Pour le css utiliser directement dans le html les propriétés présentent dans la documentation CSS (titre : CSS pour tableau dans HTML).
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/exercice1_tableau.PNG)
 
 #### Exercice n°2: Faire le drapeau des Etats-unies 
 
 Avec une hauteur de 100 et une largeur de 600 comme ci-dessous.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/exercice2_tableau.PNG)
 
  
