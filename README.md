@@ -86,7 +86,7 @@ CSS : Essayer de mettre un effet d'ombre sur le cadre du formulaire en utilisant
 
 #### Exercice n°1: Fair le drapeau de la France (1 ligne et 3 colonnes)
 
-Avec une hauteur de 200 et une largeur de 300 comme ci-dessous. Pour le css utiliser directement dans le html les propriétés présentent dans la documentation CSS (titre : CSS pour tableau dans HTML).
+Avec une hauteur de 200 et une largeur de 300 comme ci-dessous. Pour le css utiliser directement dans le html les propriétés présentent dans la documentation CSS (titre : Propriétés CSS pour tableau dans HTML).
 
 ![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/exercice1_tableau.PNG)
 
