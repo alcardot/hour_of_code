@@ -35,7 +35,7 @@ A partir des fichiers "footer.html","header.html" et "body.html" reconstituez la
 
 Une fois terminé appelez-nous pour valider et passer à la prochaine étape. 
 
-### 4) Exercice de mise en jambe  
+## 4) Exercice de mise en jambe  
 
 #### Dans le header:  
 
@@ -73,7 +73,7 @@ HTML: Mettre un titre à votre footer en utilisant la balise <p> est en appelant
 CSS:  Dans la class "footer" imposer une largeur de 100%, un texte aligner au centre et manipuler la propriété padding: 0 px. N'oublier
 pas d'appeler la classe footer dans la balise <table> de votre tableau html soit <table class="footer">. 
  ```
-### 5) Réalisation d'une page de connexion 
+## 5) Réalisation d'une page de connexion 
 
 ![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/page_connexion.PNG)
 
@@ -82,7 +82,7 @@ HTML:  Utiliser les bonnes balises pour faire un formulaire avec les bons types 
 
 CSS : Essayer de mettre un effet d'ombre sur le cadre du formulaire en utilisant une propriété CSS présente dans la documentation.  (utiliser la class .form dans le fichier style.css) 
  ```
-### 6) Atelier Tableau!
+## 6) Atelier Tableau!
 
 #### Exercice n°1: Fair le drapeau de la France (1 ligne et 3 colonnes)
 
