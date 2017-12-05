@@ -90,7 +90,7 @@ Avec une hauteur de 200 et une largeur de 300 comme ci-dessous. Pour le css util
 
 ![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/exercice1_tableau.PNG)
 
-#### Exercice n°2: Faire le drapeau des Etats-unies 
+#### Exercice n°2: Faire le drapeau des Etats-Unis 
 
 Avec une hauteur de 100 et une largeur de 600 comme ci-dessous.
 
