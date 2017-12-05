@@ -9,14 +9,14 @@ Nous vous proposons de réaliser un site web à vos vouleurs en utilisant le lan
 
 ## Getting Started
 
-1- Télécharger et extraire le zip du projet HTML 
+1- Cliquer sur le bouton vert "Clone or download"  pour récupérer le projet HTML
 
-2- Mettre le dossier du projet sur votre bureau 
+2- Extraire le zip et stocker le projet sur votre bureau
 
 A l'ouverture du projet on retrouve 3 dossiers : 
-- Images: Toutes les images que vous allez afficher dans la page de votre site 
-- HTML: Contient la page html (index.html) représentant votre page web  
-- CSS: Contient un fichier style.css qui va assurer la mise en page de votre page web et toute les images 
+- HTML: Contient la page html (index.html) représentant votre page web, les autres fichiers vous servirons à construire les fondations de votre page web.  
+- CSS: Contient un fichier style.css déjà pré-rempli (il va assurer la mise en page de votre page web) et toutes les images (background, bannière, icon...)
+- Documentation : Un fichier avec la documentation HTML et l'autre pour CSS. Utiliser impérativement ces documentations tout au long du projet (On y trouve la plupart des réponses du sujet :))
 
 
 ## 2) Votre premier "Hello hours of code" 
@@ -27,19 +27,19 @@ Dans ce fichier essayer d'afficher dans votre page web le message "Hello hours o
 ```
 <p>text</p>
 ```
-Après avoir enregistrer les modifications réalisées, fait un clique droit sur le fichier index.html dans l'explorateur de fichier et "ouvrir avec" puis choisir un navigateur web (Internet Explorer, Google Chrome, Mozilla Firefox). Le navigateur doit s'ouvrir et afficher le résultat de votre "Hello hours of code". Si c'est le cas, bravo vous avez réalisé votre première page web ! Vous êtes maintenant prêt à développer une véritable page web. 
+Après avoir enregistré les modifications, fait un clique droit sur le fichier index.html dans l'explorateur de fichier puis "ouvrir avec" et sélectionner le navigateur web de votre choix (Internet Explorer, Google Chrome, Mozilla Firefox). Le navigateur doit s'ouvrir et afficher le résultat de votre "Hello hours of code". Si c'est le cas, félicitation vous avez réalisé votre première page web ! Bon c'est pas encore le site du siècle mais patience...
 
 ## 3) Reconstitution du squelette d'une page web 
 
 A partir des fichiers "footer.html","header.html" et "body.html" reconstituez la structure type d'une page web en complétant le fichier "index.html". Ce dernier contiendra la totalité de votre page web. 
 
-Une fois terminé appelez nous pour valider et passer à la prochaine étape. 
+Une fois terminé appelez-nous pour valider et passer à la prochaine étape. 
 
 ### 4) Exercice de mise en jambe  
 
 #### Dans le header:  
 
-Ajouter un titre à la page et lier cette page avec le fichier CSS dont le chemin est ./CSS/style.css (voir documentation) 
+Ajouter un titre à la page et lier cette page avec le fichier CSS dont le chemin est ./CSS/style.css (voir documentation CSS) 
 
 #### Dans le body:  
 
@@ -49,15 +49,14 @@ Ajouter un titre à la page et lier cette page avec le fichier CSS dont le chemi
 ```
 HTML: Ajouter dans l'emplacement prévu pour la bannière la ligne suivante <h1 class="banniere"></h1>.  
 
-CSS: Fixé la hauteur à 256px et mettre une image en background 
+CSS: Fixer la hauteur à 256px et mettre une image en tant que background 
 ```
 3- Faire une barre de navigation  
 ```
 HTML: Utiliser la bonne balise pour faire une barre de navigation avec une liste d'éléments contenant chacun un lien (ex: Acceuil, menu n°1, menu n°2, menu n°3) 
 
-CSS: Compléter la classe menu pour que le menu est une hauteur de 25 px et une couleur de background. Ensuite centrer le text contenu
-dans la liste d'élément et changer la couleur du texte de chacun des liens de la barre de navigation. Pour finir, changer la couleur du
-background lorsque la souris passe sur un item de la barre de navigation (utiliser la propriété hover dans le CSS). 
+CSS: Compléter la classe menu dans le fichier style.css pour que le menu est une hauteur de 25 px et une couleur de background. Centrer ensuite le texte contenu dans la liste d'élément. Pour finir, changer la couleur du
+background lorsque la souris passe sur un item de la barre de navigation (Utiliser la propriété hover dans style.css). 
 ```
 4- Faire deux paragraphes 
 ```
