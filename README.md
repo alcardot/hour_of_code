@@ -1,5 +1,11 @@
 # Hour of code - Réalisation d'un site Web  
-Initiation Développement Web
+## Contexte
+
+Accenture organise une initiation au code auprès d'étudiants à Clermont-Ferrand dans le cadre de l'Hour Of Code.
+
+## Objectifs
+
+Nous vous proposons de réaliser un site web à vos vouleurs en utilisant le langage HTML & CSS ! Ce workshop est destiné à toute personne désireuse d'apprendre quelques notions de programmation web. Le but est d'éveiller votre intérêt sur le métier de développeur et de comprendre mieux l'importance du monde numérique. 
 
 ## Getting Started
 
