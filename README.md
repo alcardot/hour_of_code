@@ -18,6 +18,9 @@ A l'ouverture du projet on retrouve 3 dossiers :
 - CSS: Contient un fichier style.css déjà pré-rempli (il va assurer la mise en page de votre page web) et toutes les images (background, bannière, icon...)
 - Documentation : Un fichier avec la documentation HTML et l'autre pour le CSS. Utiliser impérativement ces documentations tout au long de l'initiation (On y trouve la plupart des réponses du sujet :))
 
+Les liens utiles :
+- https://www.w3schools.com/tags/tag_doctype.asp (HTML)
+- https://www.w3schools.com/css/ (CSS)
 
 ## 2) Votre premier "Hello hour of code" 
 
