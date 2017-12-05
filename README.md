@@ -1,11 +1,11 @@
 # Hour of code - Réalisation d'un site Web  
 ### Contexte
 
-Accenture organise une initiation au code auprès d'étudiants à Clermont-Ferrand dans le cadre de l'Hour Of Code.
+Accenture organise une initiation au code avec des étudiants de Clermont-Ferrand dans le cadre de l'Hour Of Code.
 
 ### Objectifs
 
-Nous vous proposons de réaliser un site web à vos vouleurs en utilisant le langage HTML & CSS ! Ce workshop est destiné aux personnes intéressées par la programmation web. Le but est d'éveiller votre intérêt sur le métier de développeur et de comprendre mieux l'importance du monde numérique. L'objectif n'est pas de faire de vous des développeurs mais de d'apprendre rapidement les fondamentaux et surtout de s'amuser !
+Nous vous proposons de réaliser un site web à vos vouleurs en utilisant le langage HTML & CSS ! Ce workshop est destiné aux personnes intéressées par de la programmation web. Le but est d'éveiller votre intérêt sur le métier de développeur et de mieux appréhender le monde du numérique. L'objectif n'est pas de faire de vous des développeurs mais de d'apprendre rapidement les fondamentaux et surtout de s'amuser !
 
 ## Getting Started
 
@@ -14,12 +14,12 @@ Nous vous proposons de réaliser un site web à vos vouleurs en utilisant le lan
 2- Extraire le zip et stocker le projet sur votre bureau
 
 A l'ouverture du projet on retrouve 3 dossiers : 
-- HTML: Contient la page html (index.html) représentant votre page web, les autres fichiers vous servirons à construire les fondations de votre page web.  
+- HTML: Contient la page html "index.html" représentant votre page web et les autres fichiers vous servirons à construire les fondations de votre page web.  
 - CSS: Contient un fichier style.css déjà pré-rempli (il va assurer la mise en page de votre page web) et toutes les images (background, bannière, icon...)
-- Documentation : Un fichier avec la documentation HTML et l'autre pour CSS. Utiliser impérativement ces documentations tout au long du projet (On y trouve la plupart des réponses du sujet :))
+- Documentation : Un fichier avec la documentation HTML et l'autre pour le CSS. Utiliser impérativement ces documentations tout au long de l'initiation (On y trouve la plupart des réponses du sujet :))
 
 
-## 2) Votre premier "Hello hours of code" 
+## 2) Votre premier "Hello hour of code" 
 
 Dans le dossier HTML, ouvrir le fichier index.html avec un éditeur de texte disponible sur votre poste (bloc note, notepad++). 
 
@@ -27,7 +27,7 @@ Dans ce fichier essayer d'afficher dans votre page web le message "Hello hours o
 ```
 <p>text</p>
 ```
-Après avoir enregistré les modifications, fait un clique droit sur le fichier index.html dans l'explorateur de fichier puis "ouvrir avec" et sélectionner le navigateur web de votre choix (Internet Explorer, Google Chrome, Mozilla Firefox). Le navigateur doit s'ouvrir et afficher le résultat de votre "Hello hours of code". Si c'est le cas, félicitation vous avez réalisé votre première page web ! Bon c'est pas encore le site du siècle mais patience...
+Après avoir enregistré les modifications, fait un clique droit sur le fichier "index.html" dans l'explorateur de fichier puis "ouvrir avec" et sélectionner le navigateur web de votre choix (Internet Explorer, Google Chrome, Mozilla Firefox). Le navigateur doit s'ouvrir et afficher le résultat de votre "Hello hour of code". Si c'est le cas, félicitation vous avez réalisé votre première page web ! Bon c'est pas encore le site de l'année mais patience...
 
 ## 3) Reconstitution du squelette d'une page web 
 
@@ -47,9 +47,10 @@ Ajouter un titre à la page et lier cette page avec le fichier CSS dont le chemi
 
 2- Faire une bannière avec une image en fond. 
 ```
-HTML: Ajouter dans l'emplacement prévu pour la bannière la ligne suivante <h1 class="banniere"></h1>.  
+HTML: Ajouter dans l'emplacement prévu pour la bannière la ligne suivante <h1 class="banniere"></h1>. 
+Elle représentera votre bannière coté HTML
 
-CSS: Fixer la hauteur à 256px et mettre une image en tant que background 
+CSS: Dans le fichier style.css fixer la hauteur de la bannière à 256px et mettre une image avec la propriété "background-image" 
 ```
 3- Faire une barre de navigation  
 ```
