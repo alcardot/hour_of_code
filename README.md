@@ -60,19 +60,15 @@ background lorsque la souris passe sur un item de la barre de navigation (Utilis
 ```
 4- Faire deux paragraphes 
 ```
-HTML: En utilisant le texte contenu dans le fichier paragraphe.txt faire un paragraphe avec un titre en <h2> puis un autre paragraphe dans une sous-partie avec un titre en <h3>  
+HTML: En faisant un copier/coller d'un texte fictif (https://www.lipsum.com/) faire un paragraphe avec un titre en <h2> puis un autre paragraphe dans une sous-partie avec un titre en <h3>  
 
-CSS: Utiliser le padding pour avoir une belle mis en page (utiliser la classe .contenu), mettre les paragraphes en justifier et ajouter
-l'image arrow pour les titres <h2> en ajoutant la ligne suivante:  background: url(arrow.png) no-repeat left bottom;  
-Dans le bas de page (footer) 
+CSS: Utiliser le "padding" pour avoir une belle mis en page (utiliser la classe .contenu), mettre les paragraphes en "justify" et ajouter l'image arrow pour les titres <h2> en ajoutant la ligne suivante:  background: url(arrow.png) no-repeat left bottom;  
 ```
 
 #### Dans le bas de page (footer) 
 
 ```
-HTML: Mettre un titre à votre footer en utilisant la balise <p> est en appelant la classe "title_footer". Réaliser ensuite un tableau à
-une seule ligne contenant 3 liens vers Facebook, Youtube et Twitter. Pour finir, imbriquez une image dans chacun de ces liens pour que
-ça soit un peu plus sexy 😉 
+HTML: Mettre un titre à votre footer en utilisant la balise <p> est en appelant la classe "title_footer" soit <p class="title_footer">. Réaliser ensuite un tableau à une seule ligne contenant 3 liens vers Facebook, Youtube et Twitter. Pour finir, imbriquer une image dans chacun de ces liens pour que ça soit un peu plus sexy 😉 
 
 CSS:  Dans la class "footer" imposer une largeur de 100%, un texte aligner au centre et manipuler la propriété padding: 0 px. N'oublier
 pas d'appeler la classe footer dans la balise <table> de votre tableau html soit <table class="footer">. 
