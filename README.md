@@ -75,7 +75,7 @@ pas d'appeler la classe footer dans la balise <table> de votre tableau html soit
  ```
 ### 5) Réalisation d'une page de connexion 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/alcardot/hour_of_code/blob/master/Site%20web%20-%20Hour%20of%20code/CSS/background_1.png)
 
  ```
 HTML:  Utiliser les bonnes balises pour faire un formulaire avec les bons types de saisies pour faire une page de login 
