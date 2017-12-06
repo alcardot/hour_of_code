@@ -44,7 +44,7 @@ Une fois terminé appelez-nous pour valider et passer à la prochaine étape.
 
 #### Dans le header:  
 
-Ajouter un titre à la page et lier cette page (voir documentation HTML) avec le fichier CSS dont le chemin est ./CSS/style.css (voir documentation CSS) 
+Ajouter un titre à la page (voir documentation HTML) et lier cette page avec le fichier CSS dont le chemin est ./CSS/style.css (voir documentation CSS) 
 
 #### Dans le body:  
 
