@@ -30,7 +30,7 @@ Dans ce fichier essayer d'afficher dans votre page web le message "Hello hours o
 ```
 <p>text</p>
 ```
-Après avoir enregistré les modifications, fait un clique droit sur le fichier "index.html" dans l'explorateur de fichier puis "ouvrir avec" et sélectionner le navigateur web de votre choix (Internet Explorer, Google Chrome, Mozilla Firefox). Le navigateur doit s'ouvrir et afficher le résultat de votre "Hello hour of code". Si c'est le cas, félicitation vous avez réalisé votre première page web ! Bon c'est pas encore le site de l'année mais patience...
+Après avoir enregistré les modifications, faire un clique droit sur le fichier "index.html" dans l'explorateur de fichier puis "ouvrir avec" et sélectionner le navigateur web de votre choix (Internet Explorer, Google Chrome, Mozilla Firefox). Le navigateur doit s'ouvrir et afficher le résultat de votre "Hello hour of code". Si c'est le cas, félicitation vous avez réalisé votre première page web ! Bon c'est pas encore le site de l'année mais patience...
 
 ## 3) Reconstitution du squelette d'une page web 
 
