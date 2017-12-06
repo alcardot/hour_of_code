@@ -59,10 +59,10 @@ CSS: Dans le fichier style.css et la class h1.banniere fixer la hauteur de la ba
 ```
 3- Faire une barre de navigation  
 ```
-HTML: Utiliser la bonne balise pour faire une barre de navigation avec une liste d'éléments contenant chacun un lien (ex: Acceuil, menu n°1, menu n°2, menu n°3) 
+HTML: Utiliser la bonne balise pour faire une barre de navigation avec une liste d'éléments contenant chacun un lien (ex: Acceuil, menu n°1, menu n°2, menu n°3). En analysant le fichier style.css appelé la classe "menu" sur la bonne balise html (<balise class="menu">) 
 
-CSS: Compléter la classe menu dans le fichier style.css pour que le menu est une hauteur de 25 px et une couleur de background. Centrer ensuite le texte contenu dans la liste d'élément. Pour finir, changer la couleur du
-background lorsque la souris passe sur un item de la barre de navigation (Utiliser la propriété hover dans style.css). 
+CSS: Compléter la classe menu dans le fichier style.css pour que le menu est une hauteur de 25 px et changer la couleur du background. Centrer ensuite le texte contenu dans la liste d'élément. Pour finir, changer la couleur du
+background lorsque la souris passe sur un item de la barre de navigation (Utiliser la propriété "hover" dans style.css). 
 ```
 4- Faire deux paragraphes 
 ```
