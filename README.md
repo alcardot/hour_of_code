@@ -5,7 +5,7 @@ Accenture organise une initiation au code avec des étudiants de Clermont-Ferran
 
 ### Objectifs
 
-Nous vous proposons de réaliser un site web à vos vouleurs en utilisant le langage HTML & CSS ! Ce workshop est destiné aux personnes intéressées par de la programmation web. Le but est d'éveiller votre intérêt sur le métier de développeur et de mieux appréhender le monde du numérique. L'objectif n'est pas de faire de vous des développeurs mais de d'apprendre rapidement les fondamentaux et surtout de s'amuser !
+Nous vous proposons de réaliser un site web à vos vouleurs en utilisant le langage HTML & CSS ! Ce workshop est destiné aux personnes intéressées par la programmation web. Le but est d'éveiller votre intérêt sur le métier de développeur et de mieux appréhender le monde du numérique. L'objectif n'est pas de faire de vous des développeurs mais de d'apprendre rapidement les fondamentaux et surtout de s'amuser !
 
 ## Getting Started
 
