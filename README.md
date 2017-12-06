@@ -48,14 +48,14 @@ Ajouter un titre à la page (voir documentation HTML) et lier cette page avec le
 
 #### Dans le body:  
 
-1- Ajouter une image de fond dans le body de votre page web en complétant le fichier style.css 
+1- Ajouter une image de fond présente dans le dossier CSS au body de votre page web en complétant le fichier style.css (Fait attention à l'extension de l'image choisi : jpg, png, jpeg...)
 
-2- Faire une bannière avec une image en fond. 
+2- Ajouter une bannière avec une image en fond. 
 ```
 HTML: Ajouter dans l'emplacement prévu pour la bannière la ligne suivante <h1 class="banniere"></h1>. 
 Elle représentera votre bannière coté HTML
 
-CSS: Dans le fichier style.css fixer la hauteur de la bannière à 256px et mettre une image avec la propriété "background-image" 
+CSS: Dans le fichier style.css et la class h1.banniere fixer la hauteur de la bannière à 256px et mettre une image avec la propriété "background-image" 
 ```
 3- Faire une barre de navigation  
 ```
