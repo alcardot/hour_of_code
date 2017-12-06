@@ -34,7 +34,9 @@ Après avoir enregistré les modifications, faire un clique droit sur le fichier
 
 ## 3) Reconstitution du squelette d'une page web 
 
-A partir des fichiers "footer.html","header.html" et "body.html" reconstituez la structure type d'une page web en complétant le fichier "index.html". Ce dernier contiendra la totalité de votre page web. 
+A partir des fichiers "footer.html","header.html" et "body.html" reconstituez la structure type d'une page web en complétant le fichier à l'intérieur de la balise <html> de votre fichier "index.html". Ce dernier contiendra la totalité de votre page web. 
+
+PS: Vous pouvez y supprimer le message "Hello hour of code" qui ne sera plus utile.
 
 Une fois terminé appelez-nous pour valider et passer à la prochaine étape. 
 
