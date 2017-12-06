@@ -26,7 +26,7 @@ Les liens utiles :
 
 Dans le dossier HTML, ouvrir le fichier index.html avec un éditeur de texte disponible sur votre poste (bloc note, notepad++). 
 
-Dans ce fichier, afficher le message "Hello hours of code" dans votre première page web en utilisant la balise suivante.(Ajouter le message à l'intérieur des balises <html>).
+Dans ce fichier, afficher le message "Hello hours of code" dans votre première page web en utilisant la balise suivante (ajouter le message à l'intérieur des balises <html>).
 ```
 <p>text</p>
 ```
