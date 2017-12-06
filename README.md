@@ -44,7 +44,7 @@ Une fois terminé appelez-nous pour valider et passer à la prochaine étape.
 
 #### Dans le header:  
 
-Ajouter un titre à la page (voir documentation HTML) et lier cette page avec le fichier CSS dont le chemin est ../CSS/style.css (voir documentation CSS) 
+Ajouter un titre à la page (voir documentation HTML) et lier cette page avec le fichier CSS dont le chemin est ../CSS/style.css (voir documentation CSS). Tester en actualisant votre page web (touche F5), vous devez obtenir un début de mis en page avec un fond gris.
 
 #### Dans le body:  
 
