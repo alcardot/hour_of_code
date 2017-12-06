@@ -9,7 +9,7 @@ Nous vous proposons de réaliser un site web à vos vouleurs en utilisant le lan
 
 ## Getting Started
 
-1- Cliquer sur le bouton vert "Clone or download"  pour récupérer le projet HTML
+1- Cliquer sur le bouton vert "Clone or download" et sur "Download ZIP" pour récupérer le projet HTML
 
 2- Extraire le zip et stocker le projet sur votre bureau
 
